@@ -1,0 +1,14 @@
+{
+  "name": "bookexcerpt",
+  "version": "1.0.0",
+  "description": "makes book excerpts",
+  "main": "excerpts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-pdftk": "^1.2.3"
+  }
+}
