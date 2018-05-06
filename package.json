@@ -1,6 +1,6 @@
 {
   "name": "bookexcerpt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "makes book excerpts, specify pdf as command line argument",
   "main": "excerpts.js",
   "scripts": {
