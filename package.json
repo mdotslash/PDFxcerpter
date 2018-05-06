@@ -1,14 +1,31 @@
 {
   "name": "bookexcerpt",
-  "version": "1.0.0",
-  "description": "makes book excerpts",
+  "version": "1.0.2",
+  "description": "makes book excerpts, specify pdf as command line argument",
   "main": "excerpts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mayowa Tomori <hi@mayowatomori.com>",
   "license": "ISC",
   "dependencies": {
+    "pdfjs-dist": ">= 2.0.489",
     "node-pdftk": "^1.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdotslash/PDFxcerpter.git"
+  },
+  "keywords": [
+    "pdf",
+    "excerpt",
+    "creator",
+    "PDFjs",
+    "PDFTK"
+  ],
+  "bugs": {
+    "url": "https://github.com/mdotslash/PDFxcerpter/issues"
+  },
+  "homepage": "https://github.com/mdotslash/PDFxcerpter#readme"
 }
